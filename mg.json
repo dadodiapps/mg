@@ -1,0 +1,37 @@
+{"success":true,"message":"","radios":
+[
+
+
+{"number":"1","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/alefamusic.png","name":"Alefa Music","streamUrl":"https://listen.radioking.com/radio/20/stream/635","yourmuzeId":"0","state":"1"}, 
+{"number":"2","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/alliance-92.png","name":"Alliance","streamUrl":"http://41.188.43.211:8000/alliance92.mp3","yourmuzeId":"0","state":"1"}, 
+{"number":"3","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/antsevasera.png","name":"Antsëvasera Radio","streamUrl":"https://listen.radioking.com/radio/205495/stream/248278","yourmuzeId":"0","state":"1"}, 
+{"number":"4","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/dago-sound.png","name":"Dago Radio Sound","streamUrl":"http://drs-live.gasy-internet.info:8011/stream/1/","yourmuzeId":"0","state":"1"}, 
+{"number":"5","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/bitsika.png","name":"Radio Bitsika","streamUrl":"http://149.202.185.104/RadioBitsika","yourmuzeId":"0","state":"1"}, 
+{"number":"6","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/don-bosco.png","name":"Radio Don Bosco","streamUrl":"http://onair15.xdevel.com:9248/","yourmuzeId":"0","state":"1"}, 
+{"number":"7","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/fahazavana.png","name":"Radio Fahazavana","streamUrl":"https://listen.radioking.com/radio/3657/stream/11144","yourmuzeId":"0","state":"1"}, 
+{"number":"8","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/fanambarana.png","name":"Radio Fanambarana","streamUrl":"http://serveur.wanastream.com:21300/","yourmuzeId":"0","state":"1"}, 
+{"number":"9","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/fanantenana.png","name":"Radio Fanantenana","streamUrl":"http://s3.free-shoutcast.com:18088/stream/1/","yourmuzeId":"0","state":"1"}, 
+{"number":"10","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/frequence-plus-madagascar.png","name":"Radio Fréquence Plus","streamUrl":"https://voninahi.radioca.st/stream/1/","yourmuzeId":"0","state":"1"}, 
+{"number":"11","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/haja-100.png","name":"Radio Haja FM","streamUrl":"http://162.210.196.140:15960/","yourmuzeId":"0","state":"1"}, 
+{"number":"12","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/madagasikara-hoan-i-kristy.png","name":"Radio Madagasikara ho an'i Kristy","streamUrl":"http://91.121.148.49:7772/stream/1/","yourmuzeId":"0","state":"1"}, 
+{"number":"13","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/paradisagasy.png","name":"Radio Paradisagasy","streamUrl":"http://91.121.59.45:10018/live","yourmuzeId":"0","state":"1"}, 
+{"number":"14","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/rvs-90-60.png","name":"Radio RVS","streamUrl":"https://stric6.streamakaci.com/radiorvs.mp3","yourmuzeId":"0","state":"1"}, 
+{"number":"15","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/vaovao-mahasoa.png","name":"Radio Vaovao Mahasoa","streamUrl":"http://91.121.148.49:7777/stream/1/","yourmuzeId":"0","state":"1"}, 
+{"number":"16","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/vatsy.png","name":"Radio Vatsy","streamUrl":"https://radio.fpma.church/","yourmuzeId":"0","state":"1"}, 
+{"number":"17","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/vazo-gasy.png","name":"Radio Vazogasy","streamUrl":"http://stream.radiovazogasy.com:8001/stream/1/","yourmuzeId":"0","state":"1"}, 
+{"number":"18","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/des-jeunes-fm.png","name":"RDJ","streamUrl":"http://rdj966.net:8000/rdj966.mp3","yourmuzeId":"0","state":"1"}, 
+{"number":"19","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/rfv105fm.png","name":"RFV","streamUrl":"http://197.158.86.230:8000/live","yourmuzeId":"0","state":"1"}, 
+{"number":"20","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/rna.png","name":"RNA Webradio","streamUrl":"http://drs-live-rna.gasy-internet.info:9001/stream/1/","yourmuzeId":"0","state":"1"}, 
+{"number":"21","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/soa-i-madagasikara.png","name":"Soa i Madagasikara","streamUrl":"http://streaming.hemera-media.com:8080/soaimadagasikara","yourmuzeId":"0","state":"1"}, 
+{"number":"22","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/taratra-105-6-fm.png","name":"Taratra","streamUrl":"http://41.188.43.211:8000/taratraradio.mp3","yourmuzeId":"0","state":"1"}, 
+{"number":"23","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/tiako-be.png","name":"Tiako Be","streamUrl":"https://tiakobe.ice.infomaniak.ch/tiakobe-64.aac","yourmuzeId":"0","state":"1"}, 
+{"number":"24","logo":"https://raw.githubusercontent.com/dadodiapps/mg/master/viva-988.png","name":"Viva FM","streamUrl":"http://162.210.196.140/stream.mp3","yourmuzeId":"0","state":"1"}
+
+
+
+
+],
+"country":{"id":"60","name":"bahrain","logo":"..\/..\/_upload\/_flags\/bahrain.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
+
+
+
